@@ -15,3 +15,7 @@ Multiple plots of a function in the same figure using various parameters. It is 
 <br>
 <h3>3. mult_y_axis_plot.R</h3>
 Plot having multiple Y axis using 'highcharter' package.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Output plot:</b><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;![alt text](https://github.com/premgb/plot/blob/master/img/mult_y_axis_plot.png)
